@@ -15,7 +15,7 @@ The six possible exploits are:
 
 Each color is vulnerable to only 2 of the 6 possible exploits. First discover which color has the specific vulnerability, then write a short description of how to exploit it, and finally demonstrate it using screenshots compiled into a GIF.
 
-## Blue, Green, Red
+## Blue, Green, Red -All gifs in one
 
 Vulnerability #1: __________________
 
